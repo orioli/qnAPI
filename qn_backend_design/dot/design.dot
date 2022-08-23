@@ -1,0 +1,17 @@
+digraph {
+	rankdir="LR"
+
+	Client1 [ shape=square label="Client 1"]
+	Client2 [ shape=square label="Client 2"]
+
+	BackEnd [ shape=square label="Back-end"]
+
+	DB [ shape=cylinder label="DB"]
+	ObjectStorage [ shape=cylinder label="Media"]
+
+	Client1 -> BackEnd
+	Client2 -> BackEnd
+
+	BackEnd -> DB
+	BackEnd -> ObjectStorage
+}
