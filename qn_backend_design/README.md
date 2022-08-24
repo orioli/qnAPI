@@ -14,7 +14,7 @@ secnumdepth: 2
 
 * Flutter application build 
 ** Install fluter: https://docs.flutter.dev/get-started/install
-** Build
+*** flutter doctor
 
 * JS maps, photo/videos, and filesystem
 
