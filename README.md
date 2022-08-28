@@ -1,3 +1,3 @@
 # qnAPI
 
-qualnotes back-end for the [qualnotes application](https://github.com/orioli/qualnotes).
+qualnotes firebsed hosted webapp for  [qualnotes application](https://github.com/orioli/qualnotes).
